@@ -7,7 +7,7 @@ PixelDust is a command-line tool for encrypting and decrypting images using XOR 
 - Encrypt images using XOR encryption.
 - Decrypt images using the provided key.
 - Supports custom output file names for both encrypted images and keys.
-- Suported formats: `png`, `jpg` and `jpeg`.
+- Supported formats: `png`, `jpg` and `jpeg`.
 
 ## Dependencies
 
@@ -37,7 +37,7 @@ To use pixelDust, you need to have Node.js installed. Then, follow these steps:
 List of all the command available:
 
 ```sh
-  -h, --help                 # Lists all avalibe commands
+  -h, --help                 # Lists all available commands
   -e, --encrypt              # The image to encrypt
   -d, --decrypt              # The image to decrypt
   -c, --clear                # Clear the console Default: false
