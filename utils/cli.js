@@ -50,7 +50,7 @@ const commands = {
 };
 
 const helpText = meowHelp({
-	name: `imcrypt`,
+	name: `pixeldust`,
 	flags,
 	commands
 });
